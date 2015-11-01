@@ -35,7 +35,7 @@ Marcos Ruiz García | 648045
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
-Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/big-ws) | [![Build Status] (https://travis-ci.org/dforcen/big-ws.svg?branch=master)](https://travis-ci.org/dforcen/big-ws) | If you have a dream, go chase it. Don´t give up until you grab it. | Si tienes un sueño, ir a cazarlo. No te rindas hasta que lo agarra.
+Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/big-ws) | [![Build Status](https://travis-ci.org/dforcen/big-ws.svg?branch=master)](https://travis-ci.org/dforcen/big-ws) | If you have a dream, go chase it. Don´t give up until you grab it. | Si tienes un sueño, ir a cazarlo. No te rindas hasta que lo agarra.
 Ramón José Arellano Bitrián | 594040 
 Daniel Uroz | 545338
 Jorge Berdún Udina | 591454 
