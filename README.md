@@ -35,7 +35,7 @@ Marcos Ruiz García | 648045
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/big-ws) | [![Build Status] (https://travis-ci.org/diegozgz92/big-ws.svg?branch=master)](https://travis-ci.org/diegozgz92/big-ws) | I study in Zaragoza | Yo estudio en Zaragoza
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
-Daniel Forcén Esteban | 558471
+Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/big-ws) | [![Build Status](https://travis-ci.org/dforcen/big-ws.svg?branch=master)](https://travis-ci.org/dforcen/big-ws) | If you have a dream, go chase it. Don´t give up until you grab it. | Si tienes un sueño, ir a cazarlo. No te rindas hasta que lo agarra.
 Ramón José Arellano Bitrián | 594040 
 Daniel Uroz | 545338 | [repo](https://github.com/uZetta27/big-ws) | [![Build Status] (https://travis-ci.org/uZetta27/big-ws.svg?branch=master)](https://travis-ci.org/uZetta27/big-ws) | Those are my principles, and if you don't like them... well, I have others | Esos son mis principios, y si no te gusta... bueno, tengo otros
 Jorge Berdún Udina | 591454 
