@@ -37,5 +37,5 @@ Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/big-ws) 
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040 
-Daniel Uroz | 545338
+Daniel Uroz | 545338 | [repo](https://github.com/uZetta27/big-ws) | [![Build Status] (https://travis-ci.org/uZetta27/big-ws.svg?branch=master)](https://travis-ci.org/uZetta27/big-ws) | Those are my principles, and if you don't like them... well, I have others | Esos son mis principios, y si no te gusta... bueno, tengo otros
 Jorge Berdún Udina | 591454 
