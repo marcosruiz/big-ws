@@ -25,7 +25,7 @@ Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/big-ws) | 
 Alberto Revel Jarne | 628704 | [repo](https://github.com/albertorevel/big-ws) | [![Build Status] (https://travis-ci.org/albertorevel/big-ws.svg?branch=master)](https://travis-ci.org/albertorevel/big-ws) | I want to solve all the problems in order to finish the work | Quiero resolver todos los problemas con el fin de terminar el trabajo
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/big-ws) | [![Build Status] (https://travis-ci.org/piraces/big-ws.svg?branch=master)](https://travis-ci.org/piraces/big-ws) | The greatest glory in living lies not in never falling, but in rising every time we fall. | La mayor gloria en la vida no consiste en nunca caer, sino en levantarnos cada vez que caemos.
 Adrian Moreno Jimeno | 631537  | [repo](http://github.com/Adriem/big-ws) | [![BuildStatus] (https://travis-ci.org/Adriem/big-ws.svg?branch=master)](https://travis-ci.org/Adriem/big-ws) | I've seen things you people wouldn't believe | He visto cosas que vosotros no creeríais
-Alberto Sabater Bailén | 546297 
+Alberto Sabater Bailón | 546297 | [repo](https://github.com/asabater94/big-ws) | [![Build Status] (https://travis-ci.org/asabater94/big-ws.svg?branch=master)](https://travis-ci.org/asabater94/big-ws) | I have not failed, I've just learned 481269 ways of how not to use travis and github. | No he fracasado, he aprendido 481269 maneras de cómo no usar travis y github.
 Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/big-ws) | [![Build Status] (https://travis-ci.org/SirBargus/big-ws.svg?branch=master)](https://travis-ci.org/SirBargus/big-ws) | Always take a banana to a party, Rose: bananas are good! |Siempre tome un plátano a una fiesta, Rosa: los plátanos son buenos!
 Alejandro Solanas Bonilla | 647647 
 Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/big-ws) | [![Build Status](https://travis-ci.org/christianjaka94/big-ws.svg?branch=master)](https://travis-ci.org/christianjaka94/big-ws) | I didn't change, only learned, and learning is not to change is to grow | No cambié, sólo aprendí, y aprender no es cambiar es crecer
@@ -35,7 +35,7 @@ Marcos Ruiz García | 648045
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/big-ws) | [![Build Status] (https://travis-ci.org/diegozgz92/big-ws.svg?branch=master)](https://travis-ci.org/diegozgz92/big-ws) | I study in Zaragoza | Yo estudio en Zaragoza
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
-Daniel Forcén Esteban | 558471
+Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/big-ws) | [![Build Status](https://travis-ci.org/dforcen/big-ws.svg?branch=master)](https://travis-ci.org/dforcen/big-ws) | If you have a dream, go chase it. Don´t give up until you grab it. | Si tienes un sueño, ir a cazarlo. No te rindas hasta que lo agarra.
 Ramón José Arellano Bitrián | 594040 
 Daniel Uroz | 545338 | [repo](https://github.com/uZetta27/big-ws) | [![Build Status] (https://travis-ci.org/uZetta27/big-ws.svg?branch=master)](https://travis-ci.org/uZetta27/big-ws) | Those are my principles, and if you don't like them... well, I have others | Esos son mis principios, y si no te gusta... bueno, tengo otros
 Jorge Berdún Udina | 591454 
